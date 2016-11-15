@@ -31,7 +31,7 @@
 // XHR, you may also just use the net/http.DefaultTransport, which
 // GopherJS replaces with an XHR-enabled version, making this package
 // useless most of the time.
-package xhr // import "honnef.co/go/js/xhr"
+package xhr
 
 import (
 	"errors"
