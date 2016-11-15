@@ -37,7 +37,7 @@ import (
 	"errors"
 
 	"github.com/gopherjs/gopherjs/js"
-	"honnef.co/go/js/util"
+	"github.com/superp00t/go-js-util"
 )
 
 // The possible values of Request.ReadyState.
